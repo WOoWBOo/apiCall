@@ -30,7 +30,7 @@
 			"RestaurantDescription":"The Spice Route offers delicious dining and takeout to Manassas, VA.",
 			"RestaurantImage":"Pictures/spiceroute.jpg"
 		},
-				{
+		{
 			"RestaurantID":4,
 			"RestaurantName":"Subway",
 			"RestaurantCategory":"Sandwich",
@@ -99,6 +99,6 @@
 			"RestaurantSite":"https://www.mortons.com/reston",
 			"RestaurantDescription":"Morton's The Steakhouse is a chain of steak restaurants with locations in the United States and franchised abroad, founded in Chicago in 1978. It is a wholly owned subsidiary of Landry's, Inc.",
 			"RestaurantImage":"Pictures/morton.png"
-		},
+		}
 	]
 }
