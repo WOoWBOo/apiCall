@@ -10,7 +10,7 @@
 				"RestaurantPrice":2,
 				"RestaurantSite":"https://www.mummummanassas.com",
 				"RestaurantDescription":"Mum Mum Thai Restaurant offers delicious dining and takeout to Manassas, VA.",
-				"RestaurantImage":"https://github.com/WOoWBOo/apiCall/tree/master/images/mummumthai.jpg"
+				"RestaurantImage":"https://github.com/WOoWBOo/apiCall/blob/master/images/mummumthai.jpg"
 			},
 			{
 				"RestaurantID":2,
@@ -20,7 +20,7 @@
 				"RestaurantPrice":2,
 				"RestaurantSite":"https://www.tonysnewyorkpizza.org",
 				"RestaurantDescription":"Tony's New York Pizza",
-				"RestaurantImage":"https://github.com/WOoWBOo/apiCall/tree/master/images/tonynypizza.png"
+				"RestaurantImage":"https://github.com/WOoWBOo/apiCall/blob/master/images/tonynypizza.png"
 			},
 			{
 				"RestaurantID":3,
@@ -30,7 +30,7 @@
 				"RestaurantPrice":2,
 				"RestaurantSite":"https://www.spiceroutemanassas.com",
 				"RestaurantDescription":"The Spice Route offers delicious dining and takeout to Manassas, VA.",
-				"RestaurantImage":"https://github.com/WOoWBOo/apiCall/tree/master/images/spiceroute.jpg"
+				"RestaurantImage":"https://github.com/WOoWBOo/apiCall/blob/master/images/spiceroute.jpg"
 			},
 			{
 				"RestaurantID":4,
@@ -40,7 +40,7 @@
 				"RestaurantPrice":1,
 				"RestaurantSite":"https://www.subway.com",
 				"RestaurantDescription":"Subway is an American privately held restaurant franchise that primarily sells submarine sandwiches and salads.",
-				"RestaurantImage":"https://github.com/WOoWBOo/apiCall/tree/master/images/subway.png"
+				"RestaurantImage":"https://github.com/WOoWBOo/apiCall/blob/master/images/subway.png"
 			},
 			{
 				"RestaurantID":5,
@@ -50,7 +50,7 @@
 				"RestaurantPrice":4,
 				"RestaurantSite":"https://www.odysseycruises.com",
 				"RestaurantDescription":"Entertainment Cruises, a Hornblower Holdings company, is North America's largest dining and sightseeing cruise company with a fleet of 53 ships in cities.",
-				"RestaurantImage":"https://github.com/WOoWBOo/apiCall/tree/master/images/odysseycruises.jpg"
+				"RestaurantImage":"https://github.com/WOoWBOo/apiCall/blob/master/images/odysseycruises.jpg"
 			},
 			{
 				"RestaurantID":6,
@@ -60,7 +60,7 @@
 				"RestaurantPrice":3,
 				"RestaurantSite":"https://www.bellissimorestaurant.com",
 				"RestaurantDescription":"Bellissimo Restaurant is owned by Omar Lavayen and Mary Killay Lavayen. The restaurant has been rated highly consistently by Northern Virginia Magazine, The Washington Post and the Fairfax Connection newspapers.",
-				"RestaurantImage":"https://github.com/WOoWBOo/apiCall/tree/master/images/bellissimo.jpg"
+				"RestaurantImage":"https://github.com/WOoWBOo/apiCall/blob/master/images/bellissimo.jpg"
 			},
 			{
 				"RestaurantID":7,
@@ -70,7 +70,7 @@
 				"RestaurantPrice":3,
 				"RestaurantSite":"https://www.crazycrabrestaurant.com",
 				"RestaurantDescription":"At Crazy Crab, our specialty is fresh seafood. Come join us in the dining room and experience seafood so fresh it melts in your mouth.",
-				"RestaurantImage":"https://github.com/WOoWBOo/apiCall/tree/master/images/crazycrab.jpeg"
+				"RestaurantImage":"https://github.com/WOoWBOo/apiCall/blob/master/images/crazycrab.jpeg"
 			},
 			{
 				"RestaurantID":8,
@@ -80,7 +80,7 @@
 				"RestaurantPrice":1,
 				"RestaurantSite":"https://www.senorramon.com",
 				"RestaurantDescription":"Authentic, street style Mexican food using antique homemade recipes and the freshest ingredients.",
-				"RestaurantImage":"https://github.com/WOoWBOo/apiCall/tree/master/images/senorramon.jpeg"
+				"RestaurantImage":"https://github.com/WOoWBOo/apiCall/blob/master/images/senorramon.jpeg"
 			},
 			{
 				"RestaurantID":9,
@@ -90,7 +90,7 @@
 				"RestaurantPrice":2,
 				"RestaurantSite":"https://www.ironagekoreansteakhouse.com",
 				"RestaurantDescription":"Bustling, modern venue featuring tabletop grills for unlimited, DIY Korean-style BBQ.",
-				"RestaurantImage":"https://github.com/WOoWBOo/apiCall/tree/master/images/ironage.png"
+				"RestaurantImage":"https://github.com/WOoWBOo/apiCall/blob/master/images/ironage.png"
 			},
 			{
 				"RestaurantID":10,
@@ -100,7 +100,7 @@
 				"RestaurantPrice":4,
 				"RestaurantSite":"https://www.mortons.com/reston",
 				"RestaurantDescription":"Morton's The Steakhouse is a chain of steak restaurants with locations in the United States and franchised abroad, founded in Chicago in 1978. It is a wholly owned subsidiary of Landry's, Inc.",
-				"RestaurantImage":"https://github.com/WOoWBOo/apiCall/tree/master/images/morton.png"
+				"RestaurantImage":"https://github.com/WOoWBOo/apiCall/blob/master/images/morton.png"
 			}
 		]
 	}
